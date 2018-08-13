@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+    <string name="Asyut1">Asyut</string>
+    <string name="Asyut">Asyut is the capital of the modern Asyut Governoratein Egypt, which has one of the largest Coptic Catholic bishopric churches in the country; the ancient city of the same name, which is situated nearby. The modern city is located at 27°11′00″N 31°10′00″E, while the ancient city is located at 27°10′00″N 31°08′00″E.\n</string>
+    <string name="coordinates">Coordinates:\t\t\t\t\t 27°11′N 31°10′E \n</string>
+    <string name="time_zone">Time zone : \t\t\t\t\t\t EET (UTC+2)\n</string>
+    <string name="area_code">Area code(s) :\t\t\t\t (+20) 88</string>
+    <string name="asyut_egypt"> Asyut Egypt </string>
+    <string name="start_your_tour">start your tour</string>
+
+<!--Assiut University-->
+    <string name="Assiut_University_title">Assiut University</string>
+    <string name="Assiut_University_location">Address : Assiut 71515 Arab Republic of Egypt \n
+    Assiut University is a university located in Assiut, Egypt.
+        \n It was established in October 1957 as the first university in Upper Egypt
+        \n Web site : http://www.aun.edu.eg/
+    </string>
+
+    <!--Al-Azhar University-->
+    <string name="Azhar_University_title">Al-Azhar University</string>
+    <string name="Azhar_University_location">Address : Elwalydiya, Assiut, Egypt \n
+    Al-Azhar University occupies a lofty place in the minds and hearts of Egyptians, Arabs and Muslims throughout the world.
+        It has expanded its appeal to students of science not only from Egyptians but also from their counterparts from all countries of the Islamic world.
+        \n Web site : http://www.azhar.edu.eg/
+    </string>
+
+    <!--Assiut Barrage-->
+    <string name="Assiut_Barrage_title">Assiut Barrage</string>
+    <string name="Assiut_Barrage_location">Address : Bridge, Bani Morr, Markaz El-Fath, Assiut Governorate \n
+    The Assiut Barrage is a dam on the Nile River in the city of Assiut in Upper Egypt. It was completed in 1903.
+    </string>
+
+    <!--Alexan Pasha Palace-->
+    <string name="Alexan_title">Alexan Pasha Palace</string>
+    <string name="Alexan_location">Address : Al Hamraa Ath Thaneyah, Markaz El-Fath, Assiut Governorate .
+    </string>
+
+    <!--Culvert Antar-->
+    <string name="Culvert_Antar_title">Culvert Antar</string>
+    <string name="Culvert_Antar_location">Address : Manqabad, Markaz Assiut, Assiut Governorate .\n
+        Epididymis is a cylindrical building allows the passage of water under a road or railway or any other type of obstacles and is often buried under the soil.
+        Built culvert pipes (pipes) or reinforced concrete or other materials,\n
+        and offset by the watercourse is raised, which is a bank of water is built above the ground. Can be built on a bridge culvert body for crossing vehicles and humans and have a different Caldaira and oval and flat bottom and box-like shape and a fruit of pear shapes. It can be built culverts of different materials such as cement and aluminum and plastic class high-density polyethylene Aithalin. It can be used as two substances or more as part of a unified building,
+        \n for example, can build a pipe on the bottom corrugated open pads (pillars) concrete.
+        \n Plastic and intra Batain to repair culverts and crumbling old without the need to drill or fill the roads.
+        \n To prevent the collapse of the old culverts fill the gaps located between them and plastic mortar Batain slave textures.
+    </string>
+
+    <!--Hospitals-->
+    <!--Alhayat Hospital-->
+    <string name="Alhayat_Hospital_title">Alhayat Hospital</string>
+    <string name="Alhayat_Hospital_location"> Address: Mecca El-Mokarrama, Al Walideyah Al Qebleyah, Qesm Than Asyut, Assiut Governorate.
+    </string>
+
+    <!--Assiut University Hospital-->
+    <string name="Assiut_University_Hospital_title">Assiut University Hospital</string>
+    <string name="Assiut_University_Hospital_location">Address : El Gameah St., Assiut - Assiut - Egypt.
+    </string>
+
+    <!--El Zahraa Hospital-->
+    <string name="El_Zahraa_Hospital_title">El Zahraa Hospital</string>
+    <string name="El_Zahraa_Hospital_location">Address : El Gala St., Assiut - Assiut - Egypt.
+    </string>
+
+    <!--Al Eman Hospital-->
+    <string name="Al_Eman_Hospital_title">Al Eman Hospital</string>
+    <string name="Al_Eman_Hospital_location">Address : 26th Of July St., Asiout - Assiut - Egypt.
+    </string>
+
+    <!--Archangel Hospital-->
+    <string name="Archangel_Hospital_title">Archangel Hospital</string>
+    <string name="Archangel_Hospital_location">Address : EL NAMIS St., Assiut - Assiut - Egypt.
+    </string>
+
+
+    <!--El Mabarra Hospital-->
+    <string name="El_Mabarra_Hospital_title">El Mabarra Hospital</string>
+    <string name="El_Mabarra_Hospital_location">Address : 16 , El Thawrah St., Cornish El Nile , Assiut - Assiut - Egypt.
+    </string>
+
+    <!--Clubs-->
+    <!--Police Officers Club-->
+    <string name="Police_Officers_Club_title">Police Officers Club</string>
+    <string name="Police_Officers_Club_location"> Address: Bridge, Bani Morr, Markaz El-Fath, Assiut Governorate .
+    </string>
+
+    <!--Paradise Park-->
+    <string name="Paradise_Park_title">Paradise Park</string>
+    <string name="Paradise_Park_location">Address: Kornish Al Nile (Al Thawra), An Nasereyah (Sharq Al Khazan), Markaz El-Fath, Assiut Governorate
+    </string>
+
+    <!--Assiut Sports Club-->
+    <string name="Assiut_Sports_Club_title">Assiut Sports Club</string>
+    <string name="Assiut_Sports_Club_location">Address:، Al Ibrahimeya, Assiut Governorate.
+    </string>
+
+    <!--Engineers Club-->
+    <string name="Engineers_Club_title">Engineers Club</string>
+    <string name="Engineers_Club_location">Address : Alwaleedeya - Assiut.
+    </string>
+
+
+    <!--Restaurants-->
+    <!--Cook Door-->
+    <string name="Cook_Door_title">Cook Door</string>
+    <string name="Cook_Door_location">Address :Kornish Asyut Sharqy Assiut Assiut EG 71515.
+    </string>
+
+    <!--KFC-->
+    <string name="KFC_title">KFC</string>
+    <string name="KFC_location">Address : Kornish Al Nile (Al Thawra), Assiut Governorate.
+    </string>
+
+    <!--Spectra Restaurant & Cafe-->
+    <string name="Spectra_Restaurant_Cafe_title">Spectra Restaurant and Cafe</string>
+    <string name="Spectra_Restaurant_Cafe_location">Address : Nile Plaza Towers, Assiut، Ahmed Ali Al-Oba, Assiut Governorate.
+    </string>
+
+    <!--McDonald's Assiut-->
+    <string name="McDonald_Assiut_title">McDonald\'s Assiut</string>
+    <string name="McDonald_Assiut_location">Address : El-Gomhoreya, Assiut Governorate.
+    </string>
+
+    <!--City Crepe Restaurant-->
+    <string name="City_Crepe_Restaurant_title">City Crepe Restaurant</string>
+    <string name="City_Crepe_Restaurant_location">Address :  71111, Saudi Towers, Assiut Governorate.
+    </string>
+
+
+</resources>
